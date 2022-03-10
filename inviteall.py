@@ -733,11 +733,11 @@ async def start_yukki():
             print("Booting Up The Client 13")
             await lkk.start()
             await lkk(
-                functions.channels.JoinChannelRequest(channel="@LegendHacker_IIN")
+                functions.channels.JoinChannelRequest(channel="@Legend_K_Userbot")
             )
             await lkk(functions.channels.JoinChannelRequest(channel=f"@{grp}"))
             await lkk(
-                functions.channels.JoinChannelRequest(channel="@LegendHacker_IIN")
+                functions.channels.JoinChannelRequest(channel="@Official_K_LegendBot")
             )
             botme = await lkk.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -769,11 +769,11 @@ async def start_yukki():
             print("Booting Up The Client 14")
             await mkk.start()
             await mkk(
-                functions.channels.JoinChannelRequest(channel="@LegendHacker_IIN")
+                functions.channels.JoinChannelRequest(channel="@Legend_K_Userbot")
             )
             await mkk(functions.channels.JoinChannelRequest(channel=f"@{grp}"))
             await mkk(
-                functions.channels.JoinChannelRequest(channel="@LegendHacker_IIN")
+                functions.channels.JoinChannelRequest(channel="@Official_K_LegendBot")
             )
             botme = await mkk.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -805,11 +805,11 @@ async def start_yukki():
             print("Booting Up The Client 15")
             await sid.start()
             await sid(
-                functions.channels.JoinChannelRequest(channel="@LegendHacker_IIN")
+                functions.channels.JoinChannelRequest(channel="@Legend_K_Userbot")
             )
             await sid(functions.channels.JoinChannelRequest(channel=f"@{grp}"))
             await sid(
-                functions.channels.JoinChannelRequest(channel="@LegendHacker_IIN")
+                functions.channels.JoinChannelRequest(channel="@Official_K_LegendBot")
             )
             botme = await sid.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -842,11 +842,11 @@ async def start_yukki():
             await shy.start()
             botme = await shy.get_me()
             await shy(
-                functions.channels.JoinChannelRequest(channel="@LegendHacker_IIN")
+                functions.channels.JoinChannelRequest(channel="@Legend_K_Userbot")
             )
             await shy(functions.channels.JoinChannelRequest(channel=f"@{grp}"))
             await shy(
-                functions.channels.JoinChannelRequest(channel="@LegendHacker_IIN")
+                functions.channels.JoinChannelRequest(channel="@Official_K_LegendBot")
             )
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -878,11 +878,11 @@ async def start_yukki():
             await aan.start()
             botme = await aan.get_me()
             await aan(
-                functions.channels.JoinChannelRequest(channel="@LegendHacker_IIN")
+                functions.channels.JoinChannelRequest(channel="@Legend_K_Userbot")
             )
             await aan(functions.channels.JoinChannelRequest(channel=f"@{grp}"))
             await aan(
-                functions.channels.JoinChannelRequest(channel="@LegendHacker_IIN")
+                functions.channels.JoinChannelRequest(channel="@Official_K_LegendBot")
             )
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -914,11 +914,11 @@ async def start_yukki():
             await ake.start()
             botme = await ake.get_me()
             await ake(
-                functions.channels.JoinChannelRequest(channel="@LegendHacker_IIN")
+                functions.channels.JoinChannelRequest(channel="@Legend_K_Userbot")
             )
             await ake(functions.channels.JoinChannelRequest(channel=f"@{grp}"))
             await ake(
-                functions.channels.JoinChannelRequest(channel="@LegendHacker_IIN")
+                functions.channels.JoinChannelRequest(channel="@Official_K_LegendBot")
             )
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -950,11 +950,11 @@ async def start_yukki():
             await eel.start()
             botme = await eel.get_me()
             await eel(
-                functions.channels.JoinChannelRequest(channel="@LegendHacker_IIN")
+                functions.channels.JoinChannelRequest(channel="@Legend_K_Userbot")
             )
             await eel(functions.channels.JoinChannelRequest(channel=f"@{grp}"))
             await eel(
-                functions.channels.JoinChannelRequest(channel="@LegendHacker_IIN ")
+                functions.channels.JoinChannelRequest(channel="@Official_K_LegendBot ")
             )
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -986,11 +986,11 @@ async def start_yukki():
             await khu.start()
             botme = await khu.get_me()
             await khu(
-                functions.channels.JoinChannelRequest(channel="@LegendHacker_IIN")
+                functions.channels.JoinChannelRequest(channel="@Legend_K_Userbot")
             )
             await khu(functions.channels.JoinChannelRequest(channel=f"@{grp}"))
             await khu(
-                functions.channels.JoinChannelRequest(channel="@LegendHacker_IIN")
+                functions.channels.JoinChannelRequest(channel="@Official_K_LegendBot")
             )
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -1022,11 +1022,11 @@ async def start_yukki():
             await shi.start()
             botme = await shi.get_me()
             await shi(
-                functions.channels.JoinChannelRequest(channel="@LegendHacker_IIN")
+                functions.channels.JoinChannelRequest(channel="@Legend_K_Userbot")
             )
             await shi(functions.channels.JoinChannelRequest(channel=f"@{grp}"))
             await shi(
-                functions.channels.JoinChannelRequest(channel="@LegendHacker_IIN ")
+                functions.channels.JoinChannelRequest(channel="@Official_K_LegendBot ")
             )
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -1058,11 +1058,11 @@ async def start_yukki():
             await yaa.start()
             botme = await yaa.get_me()
             await yaa(
-                functions.channels.JoinChannelRequest(channel="@LegendHacker_IIN")
+                functions.channels.JoinChannelRequest(channel="@Legend_K_Userbot")
             )
             await yaa(functions.channels.JoinChannelRequest(channel=f"@{grp}"))
             await yaa(
-                functions.channels.JoinChannelRequest(channel="@LegendHacker_IIN ")
+                functions.channels.JoinChannelRequest(channel="@Official_K_LegendBot ")
             )
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -1094,11 +1094,11 @@ async def start_yukki():
             await dav.start()
             botme = await dav.get_me()
             await dav(
-                functions.channels.JoinChannelRequest(channel="@LegendHacker_IIN")
+                functions.channels.JoinChannelRequest(channel="@Legend_K_Userbot")
             )
             await dav(functions.channels.JoinChannelRequest(channel=f"@{grp}"))
             await dav(
-                functions.channels.JoinChannelRequest(channel="@LegendHacker_IIN ")
+                functions.channels.JoinChannelRequest(channel="@Official_K_LegendBot ")
             )
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -1130,11 +1130,11 @@ async def start_yukki():
             await raj.start()
             botme = await raj.get_me()
             await raj(
-                functions.channels.JoinChannelRequest(channel="@LegendHacker_IIN")
+                functions.channels.JoinChannelRequest(channel="@Legend_K_Userbot")
             )
             await raj(functions.channels.JoinChannelRequest(channel=f"@{grp}"))
             await raj(
-                functions.channels.JoinChannelRequest(channel="@LegendHacker_IIN ")
+                functions.channels.JoinChannelRequest(channel="@Official_K_LegendBot ")
             )
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -1166,11 +1166,11 @@ async def start_yukki():
             await put.start()
             botme = await put.get_me()
             await put(
-                functions.channels.JoinChannelRequest(channel="@LegendHacker_IIN")
+                functions.channels.JoinChannelRequest(channel="@Legend_K_Userbot")
             )
             await put(functions.channels.JoinChannelRequest(channel=f"@{grp}"))
             await put(
-                functions.channels.JoinChannelRequest(channel="@LegendHacker_IIN ")
+                functions.channels.JoinChannelRequest(channel="@Official_K_LegendBot ")
             )
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -1460,7 +1460,7 @@ async def ping(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         await ydk.send_message(
-            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ .\nI am client 2"
+            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ *\nI am client 2"
         )
 
 
@@ -1468,7 +1468,7 @@ async def ping(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         await wdk.send_message(
-            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ .\nI am client 3"
+            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ ?\nI am client 3"
         )
 
 
@@ -1476,7 +1476,7 @@ async def ping(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         await hdk.send_message(
-            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ .\nI am client 4"
+            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ +\nI am client 4"
         )
 
 
@@ -1484,7 +1484,7 @@ async def ping(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         await sdk.send_message(
-            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ .\nI am client 5"
+            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ -\nI am client 5"
         )
 
 
@@ -1492,7 +1492,7 @@ async def ping(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         await adk.send_message(
-            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ .\nI am client 6"
+            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ ×\nI am client 6"
         )
 
 
@@ -1500,7 +1500,7 @@ async def ping(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         await bdk.send_message(
-            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ .\nI am client 7"
+            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ ÷\nI am client 7"
         )
 
 
@@ -1508,7 +1508,7 @@ async def ping(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         await cdk.send_message(
-            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ .\nI am client 8"
+            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ =\nI am client 8"
         )
 
 
@@ -1524,7 +1524,7 @@ async def ping(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         await ddk.send_message(
-            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ .\nI am client 10"
+            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ *\nI am client 10"
         )
 
 
@@ -1532,7 +1532,7 @@ async def ping(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         await vkk.send_message(
-            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ .\nI am client 11"
+            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ ?\nI am client 11"
         )
 
 
@@ -1540,7 +1540,7 @@ async def ping(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         await kkk.send_message(
-            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ .\nI am client 12"
+            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ +\nI am client 12"
         )
 
 
@@ -1548,7 +1548,7 @@ async def ping(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         await lkk.send_message(
-            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ .\nI am client 13"
+            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ -\nI am client 13"
         )
 
 
@@ -1556,7 +1556,7 @@ async def ping(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         await mkk.send_message(
-            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ .\nI am client 14"
+            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ ×\nI am client 14"
         )
 
 
@@ -1564,7 +1564,7 @@ async def ping(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         await sid.send_message(
-            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ .\nI am client 15"
+            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ ÷\nI am client 15"
         )
 
 
@@ -1572,7 +1572,7 @@ async def ping(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         await shy.send_message(
-            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ .\nI am client 16"
+            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ =\nI am client 16"
         )
 
 
@@ -1588,7 +1588,7 @@ async def ping(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         await ake.send_message(
-            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ .\nI am client 18"
+            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ *\nI am client 18"
         )
 
 
@@ -1596,7 +1596,7 @@ async def ping(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         await eel.send_message(
-            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ .\nI am client 19"
+            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ ?\nI am client 19"
         )
 
 
@@ -1604,7 +1604,7 @@ async def ping(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         await khu.send_message(
-            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ .\nI am client 20"
+            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ +\nI am client 20"
         )
 
 
@@ -1612,7 +1612,7 @@ async def ping(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         await shi.send_message(
-            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ .\nI am client 21"
+            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ -\nI am client 21"
         )
 
 
@@ -1620,7 +1620,7 @@ async def ping(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         await yaa.send_message(
-            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ .\nI am client 22"
+            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ ×\nI am client 22"
         )
 
 
@@ -1628,7 +1628,7 @@ async def ping(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         await dav.send_message(
-            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ .\nI am client 23"
+            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ ÷\nI am client 23"
         )
 
 
@@ -1636,7 +1636,7 @@ async def ping(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         await raj.send_message(
-            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ .\nI am client 24"
+            e.chat_id, "Hello Sir\nMy Inviteall Command Handler ~ =\nI am client 24"
         )
 
 
@@ -1668,7 +1668,7 @@ async def get_users(event):
         error = "None"
 
         await krishna.edit(
-            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/LegendHacker_IIN)**\n\n`🔸Inviting Users.......`"
+            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/Legend_K_Userbot)**\n\n`🔸Inviting Users.......`"
         )
         async for x in event.client.iter_participants(
             legend.full_chat.id, aggressive=True
@@ -1683,11 +1683,11 @@ async def get_users(event):
                 error = str(e)
                 f = f + 1
         return await krishna.edit(
-            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/LegendHacker_IIN) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
+            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/Legend_K_Userbot) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
         )
 
 
-@ydk.on(events.NewMessage(incoming=True, pattern=r"\.inviteall"))
+@ydk.on(events.NewMessage(incoming=True, pattern=r"\*inviteall"))
 async def get_users(event):
     if event.sender_id in SMEX_USERS:
         yukki = ("".join(event.text.split(maxsplit=1)[1:])).split(" ", 1)
@@ -1708,7 +1708,7 @@ async def get_users(event):
         error = "None"
 
         await krishna.edit(
-            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/LegendHacker_IIN)**\n\n`🔸Inviting Users.......`"
+            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/Legend_K_Userbot)**\n\n`🔸Inviting Users.......`"
         )
         async for user in event.client.iter_participants(legend.full_chat.id):
             try:
@@ -1721,11 +1721,11 @@ async def get_users(event):
                 error = str(e)
                 f = f + 1
         return await krishna.edit(
-            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/LegendHacker_IIN) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
+            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/Legend_K_Userbot) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
         )
 
 
-@wdk.on(events.NewMessage(incoming=True, pattern=r"\.inviteall"))
+@wdk.on(events.NewMessage(incoming=True, pattern=r"\?inviteall"))
 async def get_users(event):
     if event.sender_id in SMEX_USERS:
         sender = await event.get_sender()
@@ -1745,7 +1745,7 @@ async def get_users(event):
         error = "None"
 
         await krishna.edit(
-            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/LegendHacker_IIN)**\n\n`🔸Inviting Users.......`"
+            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/Legend_K_Userbot)**\n\n`🔸Inviting Users.......`"
         )
         async for user in event.client.iter_participants(legend.full_chat.id):
             try:
@@ -1758,11 +1758,11 @@ async def get_users(event):
                 error = str(e)
                 f = f + 1
         return await krishna.edit(
-            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/LegendHacker_IIN) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
+            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/Legend_K_Userbot) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
         )
 
 
-@hdk.on(events.NewMessage(incoming=True, pattern=r"\.inviteall"))
+@hdk.on(events.NewMessage(incoming=True, pattern=r"\+inviteall"))
 async def get_users(event):
     if event.sender_id in SMEX_USERS:
         sender = await event.get_sender()
@@ -1782,7 +1782,7 @@ async def get_users(event):
         error = "None"
 
         await krishna.edit(
-            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/LegendHacker_IIN)**\n\n`🔸Inviting Users.......`"
+            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/Legend_K_Userbot)**\n\n`🔸Inviting Users.......`"
         )
         async for user in event.client.iter_participants(legend.full_chat.id):
             try:
@@ -1795,11 +1795,11 @@ async def get_users(event):
                 error = str(e)
                 f = f + 1
         return await krishna.edit(
-            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/LegendHacker_IIN) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
+            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/Legend_K_Userbot) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
         )
 
 
-@sdk.on(events.NewMessage(incoming=True, pattern=r"\.inviteall"))
+@sdk.on(events.NewMessage(incoming=True, pattern=r"\-inviteall"))
 async def get_users(event):
     if event.sender_id in SMEX_USERS:
         sender = await event.get_sender()
@@ -1819,7 +1819,7 @@ async def get_users(event):
         error = "None"
 
         await krishna.edit(
-            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/LegendHacker_IIN)**\n\n`🔸Inviting Users.......`"
+            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/Legend_K_Userbot)**\n\n`🔸Inviting Users.......`"
         )
         async for user in event.client.iter_participants(legend.full_chat.id):
             try:
@@ -1832,11 +1832,11 @@ async def get_users(event):
                 error = str(e)
                 f = f + 1
         return await krishna.edit(
-            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/LegendHacker_IIN) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
+            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/Legend_K_Userbot) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
         )
 
 
-@adk.on(events.NewMessage(incoming=True, pattern=r"\.inviteall"))
+@adk.on(events.NewMessage(incoming=True, pattern=r"\×inviteall"))
 async def get_users(event):
     if event.sender_id in SMEX_USERS:
         sender = await event.get_sender()
@@ -1856,7 +1856,7 @@ async def get_users(event):
         error = "None"
 
         await krishna.edit(
-            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/LegendHacker_IIN)**\n\n`🔸Inviting Users.......`"
+            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/Legend_K_Userbot)**\n\n`🔸Inviting Users.......`"
         )
         async for user in event.client.iter_participants(legend.full_chat.id):
             try:
@@ -1869,11 +1869,11 @@ async def get_users(event):
                 error = str(e)
                 f = f + 1
         return await krishna.edit(
-            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/LegendHacker_IIN) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
+            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/Legend_K_Userbot) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
         )
 
 
-@bdk.on(events.NewMessage(incoming=True, pattern=r"\.inviteall"))
+@bdk.on(events.NewMessage(incoming=True, pattern=r"\÷inviteall"))
 async def get_users(event):
     if event.sender_id in SMEX_USERS:
         sender = await event.get_sender()
@@ -1893,7 +1893,7 @@ async def get_users(event):
         error = "None"
 
         await krishna.edit(
-            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/LegendHacker_IIN)**\n\n`🔸Inviting Users.......`"
+            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/Legend_K_Userbot)**\n\n`🔸Inviting Users.......`"
         )
         async for user in event.client.iter_participants(legend.full_chat.id):
             try:
@@ -1906,11 +1906,11 @@ async def get_users(event):
                 error = str(e)
                 f = f + 1
         return await krishna.edit(
-            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/LegendHacker_IIN) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
+            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/Legend_K_Userbot) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
         )
 
 
-@cdk.on(events.NewMessage(incoming=True, pattern=r"\.inviteall"))
+@cdk.on(events.NewMessage(incoming=True, pattern=r"\=inviteall"))
 async def get_users(event):
     if event.sender_id in SMEX_USERS:
         sender = await event.get_sender()
@@ -1930,7 +1930,7 @@ async def get_users(event):
         error = "None"
 
         await krishna.edit(
-            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/LegendHacker_IIN)**\n\n`🔸Inviting Users.......`"
+            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/Legend_K_Userbot)**\n\n`🔸Inviting Users.......`"
         )
         async for user in event.client.iter_participants(legend.full_chat.id):
             try:
@@ -1943,7 +1943,7 @@ async def get_users(event):
                 error = str(e)
                 f = f + 1
         return await krishna.edit(
-            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/LegendHacker_IIN) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
+            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/Legend_K_Userbot) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
         )
 
 
@@ -1967,7 +1967,7 @@ async def get_users(event):
         error = "None"
 
         await krishna.edit(
-            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/LegendHacker_IIN)**\n\n`🔸Inviting Users.......`"
+            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/Legend_K_Userbot)**\n\n`🔸Inviting Users.......`"
         )
         async for user in event.client.iter_participants(legend.full_chat.id):
             try:
@@ -1980,11 +1980,11 @@ async def get_users(event):
                 error = str(e)
                 f = f + 1
         return await krishna.edit(
-            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/LegendHacker_IIN) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
+            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/Legend_K_Userbot) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
         )
 
 
-@ddk.on(events.NewMessage(incoming=True, pattern=r"\.inviteall"))
+@ddk.on(events.NewMessage(incoming=True, pattern=r"\*inviteall"))
 async def get_users(event):
     if event.sender_id in SMEX_USERS:
         sender = await event.get_sender()
@@ -2004,7 +2004,7 @@ async def get_users(event):
         error = "None"
 
         await krishna.edit(
-            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/LegendHacker_IIN)**\n\n`🔸Inviting Users.......`"
+            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/Legend_K_Userbot)**\n\n`🔸Inviting Users.......`"
         )
         async for user in event.client.iter_participants(legend.full_chat.id):
             try:
@@ -2017,11 +2017,11 @@ async def get_users(event):
                 error = str(e)
                 f = f + 1
         return await krishna.edit(
-            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/LegendHacker_IIN) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
+            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/Legend_K_Userbot) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
         )
 
 
-@vkk.on(events.NewMessage(incoming=True, pattern=r"\.inviteall"))
+@vkk.on(events.NewMessage(incoming=True, pattern=r"\?inviteall"))
 async def get_users(event):
     if event.sender_id in SMEX_USERS:
         sender = await event.get_sender()
@@ -2041,7 +2041,7 @@ async def get_users(event):
         error = "None"
 
         await krishna.edit(
-            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/LegendHacker_IIN)**\n\n`🔸Inviting Users.......`"
+            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/Legend_K_Userbot)**\n\n`🔸Inviting Users.......`"
         )
         async for user in event.client.iter_participants(legend.full_chat.id):
             try:
@@ -2054,11 +2054,11 @@ async def get_users(event):
                 error = str(e)
                 f = f + 1
         return await krishna.edit(
-            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/LegendHacker_IIN) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
+            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/Legend_K_Userbot) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
         )
 
 
-@kkk.on(events.NewMessage(incoming=True, pattern=r"\.inviteall"))
+@kkk.on(events.NewMessage(incoming=True, pattern=r"\+inviteall"))
 async def get_users(event):
     if event.sender_id in SMEX_USERS:
         sender = await event.get_sender()
@@ -2078,7 +2078,7 @@ async def get_users(event):
         error = "None"
 
         await krishna.edit(
-            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/LegendHacker_IIN)**\n\n`🔸Inviting Users.......`"
+            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/Legend_K_Userbot)**\n\n`🔸Inviting Users.......`"
         )
         async for user in event.client.iter_participants(legend.full_chat.id):
             try:
@@ -2091,11 +2091,11 @@ async def get_users(event):
                 error = str(e)
                 f = f + 1
         return await krishna.edit(
-            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/LegendHacker_IIN) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
+            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/Legend_K_Userbot) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
         )
 
 
-@lkk.on(events.NewMessage(incoming=True, pattern=r"\.inviteall"))
+@lkk.on(events.NewMessage(incoming=True, pattern=r"\-inviteall"))
 async def get_users(event):
     if event.sender_id in SMEX_USERS:
         sender = await event.get_sender()
@@ -2115,7 +2115,7 @@ async def get_users(event):
         error = "None"
 
         await krishna.edit(
-            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/LegendHacker_IIN)**\n\n`🔸Inviting Users.......`"
+            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/Legend_K_Userbot)**\n\n`🔸Inviting Users.......`"
         )
         async for user in event.client.iter_participants(legend.full_chat.id):
             try:
@@ -2128,11 +2128,11 @@ async def get_users(event):
                 error = str(e)
                 f = f + 1
         return await krishna.edit(
-            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/LegendHacker_IIN) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
+            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/Legend_K_Userbot) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
         )
 
 
-@mkk.on(events.NewMessage(incoming=True, pattern=r"\.inviteall"))
+@mkk.on(events.NewMessage(incoming=True, pattern=r"\×inviteall"))
 async def get_users(event):
     if event.sender_id in SMEX_USERS:
         sender = await event.get_sender()
@@ -2152,7 +2152,7 @@ async def get_users(event):
         error = "None"
 
         await krishna.edit(
-            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/LegendHacker_IIN)**\n\n`🔸Inviting Users.......`"
+            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/Legend_K_Userbot)**\n\n`🔸Inviting Users.......`"
         )
         async for user in event.client.iter_participants(legend.full_chat.id):
             try:
@@ -2165,11 +2165,11 @@ async def get_users(event):
                 error = str(e)
                 f = f + 1
         return await krishna.edit(
-            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/LegendHacker_IIN) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
+            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/Legend_K_Userbot) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
         )
 
 
-@sid.on(events.NewMessage(incoming=True, pattern=r"\.inviteall"))
+@sid.on(events.NewMessage(incoming=True, pattern=r"\÷inviteall"))
 async def get_users(event):
     if event.sender_id in SMEX_USERS:
         sender = await event.get_sender()
@@ -2189,7 +2189,7 @@ async def get_users(event):
         error = "None"
 
         await krishna.edit(
-            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/LegendHacker_IIN)**\n\n`🔸Inviting Users.......`"
+            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/Legend_K_Userbot)**\n\n`🔸Inviting Users.......`"
         )
         async for user in event.client.iter_participants(legend.full_chat.id):
             try:
@@ -2202,11 +2202,11 @@ async def get_users(event):
                 error = str(e)
                 f = f + 1
         return await krishna.edit(
-            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/LegendHacker_IIN) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
+            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/Legend_K_Userbot) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
         )
 
 
-@shy.on(events.NewMessage(incoming=True, pattern=r"\.inviteall"))
+@shy.on(events.NewMessage(incoming=True, pattern=r"\=inviteall"))
 async def get_users(event):
     if event.sender_id in SMEX_USERS:
         sender = await event.get_sender()
@@ -2226,7 +2226,7 @@ async def get_users(event):
         error = "None"
 
         await krishna.edit(
-            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/LegendHacker_IIN)**\n\n`🔸Inviting Users.......`"
+            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/Legend_K_Userbot)**\n\n`🔸Inviting Users.......`"
         )
         async for user in event.client.iter_participants(legend.full_chat.id):
             try:
@@ -2239,7 +2239,7 @@ async def get_users(event):
                 error = str(e)
                 f = f + 1
         return await krishna.edit(
-            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/LegendHacker_IIN) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
+            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/Legend_K_Userbot) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
         )
 
 
@@ -2263,7 +2263,7 @@ async def get_users(event):
         error = "None"
 
         await krishna.edit(
-            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/LegendHacker_IIN)**\n\n`🔸Inviting Users.......`"
+            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/Legend_K_Userbot)**\n\n`🔸Inviting Users.......`"
         )
         async for user in event.client.iter_participants(legend.full_chat.id):
             try:
@@ -2276,11 +2276,11 @@ async def get_users(event):
                 error = str(e)
                 f = f + 1
         return await krishna.edit(
-            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/LegendHacker_IIN) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
+            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/Legend_K_Userbot) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
         )
 
 
-@ake.on(events.NewMessage(incoming=True, pattern=r"\.inviteall"))
+@ake.on(events.NewMessage(incoming=True, pattern=r"\*inviteall"))
 async def get_users(event):
     if event.sender_id in SMEX_USERS:
         sender = await event.get_sender()
@@ -2300,7 +2300,7 @@ async def get_users(event):
         error = "None"
 
         await krishna.edit(
-            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/LegendHacker_IIN)**\n\n`🔸Inviting Users.......`"
+            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/Legend_K_Userbot)**\n\n`🔸Inviting Users.......`"
         )
         async for user in event.client.iter_participants(legend.full_chat.id):
             try:
@@ -2313,11 +2313,11 @@ async def get_users(event):
                 error = str(e)
                 f = f + 1
         return await krishna.edit(
-            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/LegendHacker_IIN) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
+            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/Legend_K_Userbot) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
         )
 
 
-@eel.on(events.NewMessage(incoming=True, pattern=r"\.inviteall"))
+@eel.on(events.NewMessage(incoming=True, pattern=r"\?inviteall"))
 async def get_users(event):
     if event.sender_id in SMEX_USERS:
         sender = await event.get_sender()
@@ -2337,7 +2337,7 @@ async def get_users(event):
         error = "None"
 
         await krishna.edit(
-            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/LegendHacker_IIN)**\n\n`🔸Inviting Users.......`"
+            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/Legend_K_Userbot)**\n\n`🔸Inviting Users.......`"
         )
         async for user in event.client.iter_participants(legend.full_chat.id):
             try:
@@ -2350,11 +2350,11 @@ async def get_users(event):
                 error = str(e)
                 f = f + 1
         return await krishna.edit(
-            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/LegendHacker_IIN) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
+            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/Legend_K_Userbot) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
         )
 
 
-@khu.on(events.NewMessage(incoming=True, pattern=r"\.inviteall"))
+@khu.on(events.NewMessage(incoming=True, pattern=r"\+inviteall"))
 async def get_users(event):
     if event.sender_id in SMEX_USERS:
         sender = await event.get_sender()
@@ -2374,7 +2374,7 @@ async def get_users(event):
         error = "None"
 
         await krishna.edit(
-            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/LegendHacker_IIN)**\n\n`🔸Inviting Users.......`"
+            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/Legend_K_Userbot)**\n\n`🔸Inviting Users.......`"
         )
         async for user in event.client.iter_participants(legend.full_chat.id):
             try:
@@ -2387,11 +2387,11 @@ async def get_users(event):
                 error = str(e)
                 f = f + 1
         return await krishna.edit(
-            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/LegendHacker_IIN) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
+            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/Legend_K_Userbot) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
         )
 
 
-@shi.on(events.NewMessage(incoming=True, pattern=r"\.inviteall"))
+@shi.on(events.NewMessage(incoming=True, pattern=r"\-inviteall"))
 async def get_users(event):
     if event.sender_id in SMEX_USERS:
         sender = await event.get_sender()
@@ -2411,7 +2411,7 @@ async def get_users(event):
         error = "None"
 
         await krishna.edit(
-            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/LegendHacker_IIN)**\n\n`🔸Inviting Users.......`"
+            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/Legend_K_Userbot)**\n\n`🔸Inviting Users.......`"
         )
         async for user in event.client.iter_participants(legend.full_chat.id):
             try:
@@ -2424,11 +2424,11 @@ async def get_users(event):
                 error = str(e)
                 f = f + 1
         return await krishna.edit(
-            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/LegendHacker_IIN) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
+            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/Legend_K_Userbot) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
         )
 
 
-@yaa.on(events.NewMessage(incoming=True, pattern=r"\.inviteall"))
+@yaa.on(events.NewMessage(incoming=True, pattern=r"\×inviteall"))
 async def get_users(event):
     if event.sender_id in SMEX_USERS:
         sender = await event.get_sender()
@@ -2448,7 +2448,7 @@ async def get_users(event):
         error = "None"
 
         await krishna.edit(
-            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/LegendHacker_IIN)**\n\n`🔸Inviting Users.......`"
+            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/Legend_K_Userbot)**\n\n`🔸Inviting Users.......`"
         )
         async for user in event.client.iter_participants(legend.full_chat.id):
             try:
@@ -2461,11 +2461,11 @@ async def get_users(event):
                 error = str(e)
                 f = f + 1
         return await krishna.edit(
-            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/LegendHacker_IIN) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
+            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/Legend_K_Userbot) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
         )
 
 
-@dav.on(events.NewMessage(incoming=True, pattern=r"\.inviteall"))
+@dav.on(events.NewMessage(incoming=True, pattern=r"\÷inviteall"))
 async def get_users(event):
     if event.sender_id in SMEX_USERS:
         sender = await event.get_sender()
@@ -2485,7 +2485,7 @@ async def get_users(event):
         error = "None"
 
         await krishna.edit(
-            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/LegendHacker_IIN)**\n\n`🔸Inviting Users.......`"
+            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/Legend_K_Userbot)**\n\n`🔸Inviting Users.......`"
         )
         async for user in event.client.iter_participants(legend.full_chat.id):
             try:
@@ -2498,11 +2498,11 @@ async def get_users(event):
                 error = str(e)
                 f = f + 1
         return await krishna.edit(
-            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/LegendHacker_IIN) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
+            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/Legend_K_Userbot) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
         )
 
 
-@raj.on(events.NewMessage(incoming=True, pattern=r"\.inviteall"))
+@raj.on(events.NewMessage(incoming=True, pattern=r"\=inviteall"))
 async def get_users(event):
     if event.sender_id in SMEX_USERS:
         yukki = ("".join(event.text.split(maxsplit=1)[1:])).split(" ", 1)
@@ -2523,7 +2523,7 @@ async def get_users(event):
         error = "None"
 
         await krishna.edit(
-            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/LegendHacker_IIN)**\n\n`🔸Inviting Users.......`"
+            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/Legend_K_Userbot)**\n\n`🔸Inviting Users.......`"
         )
         async for x in event.client.iter_participants(
             legend.full_chat.id, aggressive=True
@@ -2538,7 +2538,7 @@ async def get_users(event):
                 error = str(e)
                 f = f + 1
         return await krishna.edit(
-            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/LegendHacker_IIN) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
+            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/Legend_K_Userbot) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
         )
 
 
@@ -2562,7 +2562,7 @@ async def get_users(event):
         error = "None"
 
         await krishna.edit(
-            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/LegendHacker_IIN)**\n\n`🔸Inviting Users.......`"
+            "**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/Legend_K_Userbot)**\n\n`🔸Inviting Users.......`"
         )
         async for user in event.client.iter_participants(legend.full_chat.id):
             try:
@@ -2575,7 +2575,7 @@ async def get_users(event):
                 error = str(e)
                 f = f + 1
         return await krishna.edit(
-            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/LegendHacker_IIN) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
+            f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/Legend_K_Userbot) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
         )
 
 
@@ -2653,7 +2653,7 @@ async def restart(e):
 
 
 text = """
-CONGRATS 🥳🥳🥳 & SAY THANKS TO LEGENDX-PRO(LegendHacker_IIN)
+CONGRATS 🥳🥳🥳 & SAY THANKS TO LEGENDBOY (LegendBoy_XD)
 """
 
 print(text)
