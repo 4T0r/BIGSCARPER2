@@ -1,5 +1,5 @@
 {
-  "name": "Inviteall",
+  "name": "Bigscarper~Speedo",
   "description": "Accha H LegendX~Pro.",
   "logo": "https://te.legra.ph/file/a65b33005eb5b79bbecb6.jpg",
     "env": {
@@ -380,12 +380,12 @@
       },
       "GROUP_USERNAME": {
         "description": "WRITE UR GROUP USERNAME. Id Will Automatically Add to that Group",
-        "value": "@LB_OffTopic",
+        "value": "@PythonBot_Support",
         "required": true
       },      
       "SUDO": {
         "description": "Sudo Users Id",
-        "value": "",
+        "value": "5121955848",
         "required": true
       }
   },
